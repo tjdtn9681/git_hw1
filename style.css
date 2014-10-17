@@ -1,0 +1,17 @@
+html{color: #000;
+	background: #FFF;
+	padding: 20px 0;
+	font: 16px "맑은 고딕", "Malgun Gothic", "굴림", "Gulim", Verdana, Arial, Tahoma;
+}
+
+#wrap {width:800px; margin:0 auto; background-color:#fff}
+
+#header {width:80%; height:135px;clear:both;}
+
+#content {width:80%;clear:both;}
+#content_list{clear:both;}
+#content_image{float:right;}
+#content_main{float:right;}
+
+table {width:100%;}
+td{text-align:center;width:17%;}
